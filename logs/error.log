@@ -480,3 +480,7 @@
 2025/10/06 10:56:15 [notice] 14384#6092: signal process started
 2025/10/06 10:56:28 [notice] 14024#14056: signal process started
 2025/10/06 10:56:28 [error] 14024#14056: CreateFile() "C:\Users\Timotius Austin\Documents\nginx-rtmp-master/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/10/06 12:14:21 [error] 6476#20404: *10 CreateFile() "C:\Users\Timotius Austin\Documents\nginx-rtmp-master/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.137.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.137.1:8080", referrer: "http://192.168.137.1:8080/"
+2025/10/06 12:16:00 [error] 6476#20404: *10 CreateFile() "C:\Users\Timotius Austin\Documents\nginx-rtmp-master/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.137.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.137.1:8080", referrer: "http://192.168.137.1:8080/"
+2025/10/06 12:16:19 [error] 6476#20404: *10 CreateFile() "C:\Users\Timotius Austin\Documents\nginx-rtmp-master/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.137.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.137.1:8080", referrer: "http://192.168.137.1:8080/"
+2025/10/06 12:18:45 [notice] 3692#3572: signal process started
